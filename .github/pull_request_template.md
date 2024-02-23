@@ -6,33 +6,13 @@
 
 <!-- Before submitting your pull request please make sure you checked the following tasks: -->
 
-- [ ] I ran `npm test` locally and it passed without errors.
 <!-- Delete this if the PR is for something other than a pixel -->
-- [ ] I only edited the `_data/pixels.json` file.
+- [ ] Solo edité el archivo `_data/pixels.json`.
 <!-- Delete this if the PR is for something other than a pixel -->
-- [ ] I entered the `username` in the `pixels.json` that I'm also using to create this pull request.
-- [ ] I acknowledge that all my contributions will be made under the project's [license](../LICENSE).
+- [ ] Coloqué el nombre de usuario en el archivo `pixels.json` que estoy usando para crear este pull request.
+- [ ] Estoy de acuerdo en que todas mis contribuciones estarán bajo la [licencia](../LICENSE) del proyecto.
 
 <!-- To check a task, put a "x" between the brackets, similar to [x] -->
 
 <!-- PIXEL CONTRIBUTIONS // END -->
 
-<!-- OTHER CONTRIBUTIONS // START -->
-
-
-<!-- If you are contributing more than a pixel, please uncomment the part below and fill out the rest of the template -->
-
-<!--
-
-## Description
-
-a short description of your pull request
-
-## Related issues
-
-List any related issues here
-
-
--->
-
-<!-- OTHER CONTRIBUTIONS // END -->
